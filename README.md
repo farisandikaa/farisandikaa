@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/farisandikaa)
-- [Personal Website](https://farisandikaa.vercel.app)
+- [Personal Website](https://farisandika.vercel.app)
 
 ## 📝 Latest Projects
 
