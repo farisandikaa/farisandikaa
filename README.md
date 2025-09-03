@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 ## 🚀 About Me
 
 - 💻 Website Developer | Problem Solver
-- 🛠️ Languages & Tools: JavaScript, TypeScript, Next, React, Laravel, CodeIgniter, Git, Docker
+- 🛠️ Languages & Tools: JavaScript, TypeScript, Next, React, Laravel, CodeIgniter, Git, and Docker
 - 📚 I enjoy sharing knowledge and collaborating with others
 
 ## 📈 GitHub Stats
@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 
 ## 📝 Latest Projects
 
+-  [Tunas Honda](https://github.com/farisandikaa/tunashonda) - Web-Based Motorcycle selling apps, build with CI4.
+-  [Riva Cake](https://github.com/farisandikaa/rivacake) - Web-Based Cake selling apps, build with Laravel.
 
 
 ---
