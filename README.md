@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 
 ## 📝 Latest Projects
 
+-  [Law Firm](https://github.com/farisandikaa/law-firm) - Web-Based Law Firm, build with Laravel 10 and Tailwind CSS.
 -  [Tunas Honda](https://github.com/farisandikaa/tunashonda) - Web-Based Motorcycle selling apps, build with CI4.
 -  [Riva Cake](https://github.com/farisandikaa/rivacake) - Web-Based Cake selling apps, build with Laravel.
 
