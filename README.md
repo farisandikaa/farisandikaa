@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 
 ## 📈 GitHub Stats
 
-- ![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisandikaa&show_icons=true&hide_title=true&count_private=true&theme=dracula)
+ ![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisandikaa&show_icons=true&hide_title=true&count_private=true&theme=dracula)
 
-- ![Faris's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=farisandikaa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+ ![Faris's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=farisandikaa&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🔗 Connect with Me
 
