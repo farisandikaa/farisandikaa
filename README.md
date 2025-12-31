@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Faris Andika, a passionate developer and techn
 
 ## 🚀 About Me
 
-- 💻 Website Developer | Problem Solver
-- 🛠️ Languages & Tools: JavaScript, TypeScript, Next, React, Laravel, CodeIgniter, Git, and Docker
+- 💻 Software Engineer
+- 🛠️ Techstack & Tools: JavaScript, TypeScript, Next, React, Laravel, CodeIgniter, Git, and Docker
 - 📚 I enjoy sharing knowledge and collaborating with others
 
 ## 📈 GitHub Stats
