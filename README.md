@@ -1,15 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=480048"/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
+<table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
+<tr style="border:none;">
+<td width="60%" valign="middle" style="border:none; padding:0;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=861792&width=520&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer"/>
 
 </td>
-<td width="40%" align="right" valign="middle">
+<td width="40%" align="right" valign="middle" style="border:none; padding:0;">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280"/>
 
 </td>
 </tr>
