@@ -9,16 +9,21 @@
 <br clear="both"/>
 
 ## 💫 About Me
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    align="right"
-    width="480"
-  />
+
+<br>
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  align="right"
+  width="360"
+/>
 
 - 🎓 Full Stack Engineer focused on **Software Development & IT Solutions**
 - 🌱 Currently learning **Cybersecurity & IT Infrastructure**
 - 🥅 **2026 Goals**: CEH (EC-Council) Certification & Career Growth in Cybersecurity
----
+
+<br clear="both"/>
+
 
 ## 🌐 Socials
 
