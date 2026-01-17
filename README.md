@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hi there, I'm Kasam Ali <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hi there, I'm Faris Andika Putra <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -53,7 +53,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farisandikaa&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farisandikaa&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farisandikaa&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=VERIDIITE&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=farisandikaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 </div><br>
 
