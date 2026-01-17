@@ -55,6 +55,6 @@
 
 </div><br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Asytode712&color=red" alt="Total Github views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=farisandikaa&color=red" alt="Total Github views" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=480048&section=footer"/>
