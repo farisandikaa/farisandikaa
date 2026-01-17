@@ -2,7 +2,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
 <tr style="border:none;">
-<td width="60%" valign="middle" style="border:none; padding:0;">
+<td width="0%" valign="middle" style="border:none; padding:0;">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=861792&width=520&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer"/>
 
