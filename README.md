@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hi there, I'm Faris Andika Putra <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hi there, I'm Faris Andika Putra </h1>
 
 </div>
 
@@ -36,7 +36,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,laravel,nodejs,shadcnui,materialui,mongodb,mysql,threejs,aws,figma,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,php,laravel,nodejs,materialui,mongodb,mysql,threejs,aws,figma,git,bash,linux&perline=11" />
 </a>
 
 </div>
