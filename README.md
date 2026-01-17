@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=480048"/>
 
-<div id="header" align="center">
+<div id="header" align="left">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=861792&width=435&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer+" />
 div>
@@ -11,7 +11,7 @@ div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-### 💫 About Me
+## 💫 About Me
 
 - 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions. 
 - 🌱 I’m currently learning Cybersecurity and expanding my skills in IT infrastructure. 
