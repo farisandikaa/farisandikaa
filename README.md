@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hi there, I'm Faris Andika Putra </h1>
+<h1>(https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=861792&width=435&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer+)</h1>
 
 </div>
 
