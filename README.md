@@ -36,7 +36,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,php,laravel,nodejs,materialui,mysql,mongodb,mysql,threejs,aws,figma,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,php,laravel,nodejs,threejs,materialui,mysql,mongodb,docker,aws,figma,git,bash,linux&perline=11" />
 </a>
 
 </div>
