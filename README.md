@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient"/>
 
 <div id="header" align="center">
 
@@ -14,10 +14,9 @@
 
 ### 💫 About Me
 
-- 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions
-- 🔭 I’m currently working on UX/UI development with React, Next.js and TailwindCSS. 
-- 🌱 I’m currently learning Cloud Engineering and expanding my skills in IT infrastructure. 
-- 🥅 2025 Goals: Achieve certifications in Azure Cloud and advance in DevOps. 
+- 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions. 
+- 🌱 I’m currently learning Cybersecurity and expanding my skills in IT infrastructure. 
+- 🥅 2026 Goals: Achieve certifications in CEH EC-Council and advance in Cybersecurity. 
 
 <br>
 
@@ -25,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/farisandikaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/farisandikaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="align-left" /></a>
 
 </div>
 
@@ -37,7 +36,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,laravel,nodejs,shadcn,materialui,mongodb,mysql,threejs,aws,figma,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,next,vue,nuxt,laravel,nodejs,shadcnui,materialui,mongodb,mysql,threejs,aws,figma,git,bash,linux&perline=11" />
 </a>
 
 </div>
@@ -58,4 +57,4 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Asytode712&color=red" alt="Total Github views" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&section=footer"/>
