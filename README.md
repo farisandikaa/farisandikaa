@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=480048"/>
 
-<div align="left">
+<div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=861792&width=520&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer"
   />
