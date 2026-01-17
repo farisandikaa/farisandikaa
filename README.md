@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=480048"/>
 
 <div id="header" align="center">
 
@@ -22,9 +22,9 @@
 
 ## 🌐 Socials:
 
-<div align="center">
+<div align="left">
 
-<a href="https://linkedin.com/in/farisandikaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="align-left" /></a>
+<a href="https://linkedin.com/in/farisandikaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -57,4 +57,4 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Asytode712&color=red" alt="Total Github views" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=111&color=480048&section=footer"/>
