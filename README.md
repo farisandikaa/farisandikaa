@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=861792&width=520&lines=Hi%2C+I'm+Faris+Andika+Putra;Fullstack+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=861792&width=520&lines=Hi%2C+I'm+Faris+Andika+Putra;Software+Engineer"
   />
 </div>
 
