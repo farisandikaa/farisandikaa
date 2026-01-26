@@ -18,7 +18,7 @@
   width="360"
 />
 
-- 🎓 Full Stack Engineer focused on **Software Development & IT Solutions**
+- 🎓 Software Engineer focused on **Software Development & IT Solutions**
 - 🌱 Currently learning **Cybersecurity & IT Infrastructure**
 - 🥅 **2026 Goals**: CEH (EC-Council) Certification & Career Growth in Cybersecurity
 
