@@ -18,9 +18,9 @@
   width="360"
 />
 
-- 🎓 Software Engineer focused on **Software Development & IT Solutions**
-- 🌱 Currently learning **Cybersecurity & IT Infrastructure**
-- 🥅 **2026 Goals**: CEH (EC-Council) Certification & Career Growth in Cybersecurity
+- Software Engineer focused on **Software Development & IT Solutions**
+- Currently learning **Cybersecurity & IT Infrastructure**
+- **2026 Goals**: CEH & OSCP Certifications
 
 <br clear="both"/>
 
@@ -38,7 +38,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,bootstrap,react,next,vue,nuxt,laravel,nodejs,threejs,materialui,mysql,mongodb,docker,aws,figma,git,bash,linux&perline=11"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,bootstrap,react,next,vue,nuxt,laravel,threejs,mysql,mongodb,docker,figma,git,linux&perline=9"/>
 </p>
 
 ---
