@@ -38,7 +38,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,bootstrap,react,next,vue,nuxt,laravel,threejs,mysql,mongodb,docker,figma,git,linux&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,tailwind,bootstrap,react,next,vue,nuxt,laravel,threejs,mysql,mongodb,docker,figma,git,linux&perline=4"/>
 </p>
 
 ---
